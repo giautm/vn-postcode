@@ -1,0 +1,27 @@
+{
+  "name": "vnpostcode",
+  "version": "1.0.0",
+  "description": "PostCode from VNPOST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giautm/vnpostcode.git"
+  },
+  "keywords": [
+    "vnpost",
+    "postcode",
+    "vn"
+  ],
+  "author": "Giau Tran Minh <giau.tmg@gmail.com> (https://fb.com/giau.tm)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giautm/vnpostcode/issues"
+  },
+  "homepage": "https://github.com/giautm/vnpostcode#readme",
+  "dependencies": {
+    "sequelize": "^3.13.0"
+  }
+}
